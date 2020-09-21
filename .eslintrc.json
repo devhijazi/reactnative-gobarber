@@ -26,9 +26,6 @@
   "plugins": ["react", "react-hooks", "@typescript-eslint", "prettier"],
   "rules": {
     "react/jsx-props-no-spreading": "off",
-    "react/prop-types": "off",
-    "no-unused-expressions":"off",
-    "no-unused-vars": "off",
     "prettier/prettier": "error",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
