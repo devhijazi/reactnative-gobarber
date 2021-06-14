@@ -28,8 +28,8 @@
     "yup": "0.29.3"
   },
   "devDependencies": {
-    "@babel/core": "7.14.3",
-    "@babel/runtime": "7.14.0",
+    "@babel/core": "7.14.6",
+    "@babel/runtime": "7.14.6",
     "@hitechline/eslint-config-web": "^1.0.2",
     "@react-native-community/eslint-config": "2.0.0",
     "@types/jest": "26.0.23",
