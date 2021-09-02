@@ -31,7 +31,7 @@
     "@babel/core": "7.15.0",
     "@babel/runtime": "7.15.3",
     "@hitechline/eslint-config-web": "^1.0.2",
-    "@react-native-community/eslint-config": "3.0.0",
+    "@react-native-community/eslint-config": "3.0.1",
     "@types/jest": "27.0.1",
     "@types/react-native": "0.64.13",
     "@types/react-native-vector-icons": "6.4.8",
