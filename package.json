@@ -34,7 +34,7 @@
     "@react-native-community/eslint-config": "3.0.1",
     "@types/jest": "27.0.2",
     "@types/react-native": "0.64.13",
-    "@types/react-native-vector-icons": "6.4.9",
+    "@types/react-native-vector-icons": "6.4.10",
     "@types/react-test-renderer": "17.0.1",
     "@types/styled-components": "5.1.15",
     "@types/yup": "0.29.7",
